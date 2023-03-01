@@ -5,7 +5,7 @@ Hey y'all, I am Asma!👋
 I am working as a Business Operations Specialist and recently completed a Masters in Management Analytics from Smith School of Business at Queen's University. My passion lies in analytics,  which has become a significant focus of my work, and I am eager to continue exploring and enhancing my skills in this rapidly evolving field. In my spare time, I am learning  R, Python, Apache Spark, Machine Learning, and I aspire to continue my learning journey in this field. 
 
 
-- 👯 I’m looking to collaborate on Analytics projects
+- 👯 I’m looking to collaborate on Analytical projects
 - 🌱 I’m currently learning R, Python, Apache Spark, Machine Learning
 - 😄 Pronouns: She/Her 
 - 📫 How to reach me: asmahasan703@gmail.com or 21af27@queensu.ca
