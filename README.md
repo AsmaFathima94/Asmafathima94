@@ -1,10 +1,11 @@
 ### 
 
-Hi there 👋 I am Asma Fathima
+Hey y'all, I am Asma!👋 
 
-My passion lies in analytics, and I possess a background in Business Analytics. While pursuing computer science during undergrad, data analytics wasn't exactly on my radar. However, my interest grew as I learned coding and different programming languages. Data analysis has become a major part of my work, and I'm excited to keep exploring and developing my skills in this fascinating and rapidly evolving field. I am currently learning  R, Python, Apache Spark, Machine Learning, and I aspire to continue my learning journey in this field. Currently, I am working as a Business Operations Specialist and recently completed a Masters in Management Analytics from Smith School of Business at Queen's University.
+I am working as a Business Operations Specialist and recently completed a Masters in Management Analytics from Smith School of Business at Queen's University. My passion lies in analytics,  which has become a significant focus of my work, and I am eager to continue exploring and enhancing my skills in this rapidly evolving field. In my spare time, I am learning  R, Python, Apache Spark, Machine Learning, and I aspire to continue my learning journey in this field. 
 
 
+- 👯 I’m looking to collaborate on Analytics projects
 - 🌱 I’m currently learning R, Python, Apache Spark, Machine Learning
 - 😄 Pronouns: She/Her 
 - 📫 How to reach me: asmahasan703@gmail.com or 21af27@queensu.ca
