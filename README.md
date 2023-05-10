@@ -6,7 +6,7 @@ I am working as a Business Data Analyst and I have recently completed a Masters 
 
 
 - 👯 I’m looking to collaborate on Analytical projects
-- 🌱 I’m currently learning R, Python, Apache Spark, Machine Learning
+- 🌱 I’m currently learning R, Apache Spark, Machine Learning
 - 📫 How to reach me: asmahasan703@gmail.com or 21af27@queensu.ca
 
 
